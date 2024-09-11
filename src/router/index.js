@@ -20,6 +20,18 @@ import IntaGlioPage from '../pages/HomePage/Introduction/Tech/IntaGlioPage.vue'
 import stereoscopicPage from '../pages/HomePage/Introduction/Tech/stereoscopicPage.vue'
 import ColoursPage from '../pages/HomePage/Introduction/Tech/ColoursPage.vue'
 
+import ArticlePage from '../pages/ForumPage/ArticlePage.vue'
+import ForumPageHome from '../pages/ForumPage/ForumPageHome.vue'
+
+import ColumnIndex from '../pages/ColumnPage/index.vue'
+import ColumnList from '../pages/ColumnPage/ColumnList.vue'
+import ColumnHome from '../pages/ColumnPage/ColumnHome.vue'
+import ColumnArticlePage from '../pages/ColumnPage/ColumnArticlePage.vue'
+import ColumnUserPage from '../pages/ColumnPage/ColumnUserPage.vue'
+import EditColumnArticle from '../pages/ColumnPage/EditColumnArticle.vue'
+
+import UserPageIndex from '../pages/UserPage/index.vue'
+import UserHomePage from '../pages/UserPage/UserHomePage.vue'
 import PaperWorkIndex from '../pages/PaperworkPage/index.vue'
 import PaperWorkView from '../pages/PaperworkPage/PaperworkView.vue'
 import AllPaperWork from '../pages/PaperworkPage/AllPaperwork.vue'
