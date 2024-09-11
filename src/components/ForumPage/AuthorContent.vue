@@ -48,7 +48,6 @@ export default {
         //成功
         (res) => {
           this.articleAuthor = res.data.data
-
         },
         //失败
         (err) => {
