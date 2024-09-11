@@ -31,7 +31,6 @@
 
               </el-row>
             </el-col>
-
             <el-col :span="2">
               <!--删除帖子-->
               <div class="box2"
