@@ -5,7 +5,6 @@
     <div class="articlecard">
       <el-card shadow="hover">
         <template #header>
-
           <el-row>
             <el-col :span="2">
               <img :src=item.avatar
