@@ -33,20 +33,6 @@ export default {
   props:{articleAuthor:Object},
   data() {
     return {
-    //   articleAuthor: {
-    //     "create_time": "2022-10-27",
-    // "topic_user_introduction": "A0UuY",
-    // "topic_user_rank": "0",
-    // "topic_user_username": "123",
-    // "topic_user_email": "Wq@e9I.com",
-    // "creator_id": 1,
-    // "id": 21,
-    // "topic_user_id": "1",
-    // "title": "你好",
-    // "topic_user_avatar": "http://117.50.179.215:8056/123.jpg",
-    // "content": "你好你好你好你好你好你好你好你好你好你好你好你好",
-    // "status": "1"
-    //   },
       
   
 
