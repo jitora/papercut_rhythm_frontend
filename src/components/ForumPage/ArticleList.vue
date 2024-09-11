@@ -20,7 +20,6 @@
                                disabled
                                size="small">Lv.{{ item.u_rank }}
                     </el-button>
-
                   </div>
                 </div>
 

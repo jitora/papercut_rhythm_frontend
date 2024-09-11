@@ -56,7 +56,6 @@
 
 <script>
 import { onMounted } from 'vue'
-
 export default {
   name: 'ProjectIntroduction',
   props: ['articletotal'],

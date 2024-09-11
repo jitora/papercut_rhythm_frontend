@@ -13,6 +13,7 @@
   
 <script>
 import CreateComment from './CreateComment.vue'
+
 import CommentList from './CommentList.vue'
 
 export default {
