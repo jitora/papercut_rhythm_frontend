@@ -7,6 +7,7 @@
           </el-col>
           <el-col :span="16">
             <el-row>
+
               <p style="padding: 5px">{{ articleAuthor.topic_user_username }}</p>
               <el-button color="#626aef" disabled size="small">Lv.{{ articleAuthor.topic_user_rank }}
               </el-button>
