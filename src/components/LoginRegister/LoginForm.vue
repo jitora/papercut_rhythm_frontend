@@ -41,6 +41,7 @@
 <script>
 import RegisterForm from './RegisterForm.vue'
 
+
 export default {
   name: 'LoginForm',
   components: { RegisterForm },
