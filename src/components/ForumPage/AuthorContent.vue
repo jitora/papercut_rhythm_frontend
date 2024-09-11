@@ -1,5 +1,4 @@
 <template>
-
     <div class="author-card">
       <el-card shadow="hover">
         <el-row class="adjust-pic">
